@@ -1,2 +1,2 @@
-Coursera_R_Programming
+Coursera-R-Programming
 ======================
